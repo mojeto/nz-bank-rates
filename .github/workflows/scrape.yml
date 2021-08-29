@@ -1,10 +1,12 @@
 name: Scrape latest data
 
 on:
-  push:
-  workflow_dispatch:
   schedule:
-    - cron:  '* * * * *'
+    - cron:  47 * * * *
+  workflow_dispatch: {}
+  push:
+    paths-ignore:
+      - "**.json"
 
 jobs:
   scheduled:
