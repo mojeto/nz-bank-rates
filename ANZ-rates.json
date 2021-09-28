@@ -5094,5 +5094,31 @@
     "tiername1": "$200,000+",
     "tiername2": "",
     "sectioneffectivedate": "Wednesday, 1 April 2020"
+  },
+  {
+    "code": "OD1",
+    "isactive": "1",
+    "isfordisplay": "0",
+    "ratename": "ANZ Institutional Overdraft Base Rate",
+    "ratetype": "Base Rate",
+    "ratevalue": "5.25",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Tuesday, 28 September 2021"
+  },
+  {
+    "code": "ODE1",
+    "isactive": "1",
+    "isfordisplay": "0",
+    "ratename": "ANZ Institutional Overdraft Base Excess Margin",
+    "ratetype": "Base Rate",
+    "ratevalue": "8.00",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Tuesday, 28 September 2021"
   }
 ]
