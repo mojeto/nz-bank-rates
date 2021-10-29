@@ -1253,12 +1253,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "9.95",
+    "ratevalue": "12.90",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "less than $10,000",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 4 October 2021"
+    "sectioneffectivedate": "Friday, 29 October 2021"
   },
   {
     "code": "PLVRNZHI",
@@ -1266,12 +1266,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "9.95",
+    "ratevalue": "12.90",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$10,000 and over",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 4 October 2021"
+    "sectioneffectivedate": "Friday, 29 October 2021"
   },
   {
     "code": "DBTCON",
@@ -1284,7 +1284,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 4 October 2021"
+    "sectioneffectivedate": "Friday, 29 October 2021"
   },
   {
     "code": "PLVRNZIBLI",
@@ -1297,7 +1297,7 @@
     "ratenote": "",
     "tiername1": "less than $10,000",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 4 October 2021"
+    "sectioneffectivedate": "Friday, 29 October 2021"
   },
   {
     "code": "PLVRNZIBHI",
@@ -1310,7 +1310,7 @@
     "ratenote": "",
     "tiername1": "$10,000 and over",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 4 October 2021"
+    "sectioneffectivedate": "Friday, 29 October 2021"
   },
   {
     "code": "PLSPNZI",
@@ -1323,7 +1323,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 4 October 2021"
+    "sectioneffectivedate": "Friday, 29 October 2021"
   },
   {
     "code": "PLGPNZI",
@@ -1336,7 +1336,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 4 October 2021"
+    "sectioneffectivedate": "Friday, 29 October 2021"
   },
   {
     "code": "PONZI",
