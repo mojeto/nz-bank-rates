@@ -1401,7 +1401,7 @@
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDSNZS9I",
@@ -1409,12 +1409,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "1.85",
+    "ratevalue": "2.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "NZIRR",
@@ -1427,7 +1427,7 @@
     "ratenote": "",
     "tiername1": "Base Rate",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB1M",
@@ -1440,7 +1440,7 @@
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB2M",
@@ -1453,7 +1453,7 @@
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB3M",
@@ -1461,12 +1461,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.60",
+    "ratevalue": "0.80",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB4M",
@@ -1479,7 +1479,7 @@
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB5M",
@@ -1487,12 +1487,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.00",
+    "ratevalue": "1.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB6M",
@@ -1505,7 +1505,7 @@
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB7M",
@@ -1518,7 +1518,7 @@
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB8MS",
@@ -1531,7 +1531,7 @@
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB9M",
@@ -1544,7 +1544,7 @@
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB12M",
@@ -1552,12 +1552,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.85",
+    "ratevalue": "2.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB18M",
@@ -1565,12 +1565,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.00",
+    "ratevalue": "2.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB2Y",
@@ -1578,12 +1578,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.30",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB3Y",
@@ -1591,12 +1591,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.60",
+    "ratevalue": "3.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB4Y",
@@ -1604,12 +1604,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.90",
+    "ratevalue": "3.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZIB5Y",
@@ -1622,7 +1622,7 @@
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ1M2B",
@@ -1635,7 +1635,7 @@
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ2M2B",
@@ -1648,7 +1648,7 @@
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ3M2B",
@@ -1656,12 +1656,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "0.60",
+    "ratevalue": "0.80",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ4M2B",
@@ -1674,7 +1674,7 @@
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ5M2B",
@@ -1682,12 +1682,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "1.00",
+    "ratevalue": "1.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ6M2B",
@@ -1700,7 +1700,7 @@
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ7M2B",
@@ -1713,7 +1713,7 @@
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ8M2B",
@@ -1726,7 +1726,7 @@
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ9M2B",
@@ -1739,7 +1739,7 @@
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ12M2B",
@@ -1747,12 +1747,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "1.85",
+    "ratevalue": "2.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ18M2B",
@@ -1760,12 +1760,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "2.00",
+    "ratevalue": "2.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ24M2B",
@@ -1773,12 +1773,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "2.30",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ3Y2B",
@@ -1786,12 +1786,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.60",
+    "ratevalue": "3.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ4Y2B",
@@ -1799,12 +1799,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.90",
+    "ratevalue": "3.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTDNZ5Y2B",
@@ -1817,7 +1817,7 @@
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO1M",
@@ -1830,7 +1830,7 @@
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E1M",
@@ -1843,7 +1843,7 @@
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E1M",
@@ -1856,7 +1856,7 @@
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E1M",
@@ -1869,7 +1869,7 @@
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO2M",
@@ -1882,7 +1882,7 @@
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E2M",
@@ -1895,7 +1895,7 @@
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E2M",
@@ -1908,7 +1908,7 @@
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E2M",
@@ -1921,7 +1921,7 @@
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO3M",
@@ -1929,12 +1929,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.60",
+    "ratevalue": "0.80",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E3M",
@@ -1942,12 +1942,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.62",
+    "ratevalue": "0.82",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E3M",
@@ -1955,12 +1955,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.64",
+    "ratevalue": "0.86",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E3M",
@@ -1968,12 +1968,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.71",
+    "ratevalue": "0.94",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO4M",
@@ -1986,7 +1986,7 @@
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E4M",
@@ -1999,7 +1999,7 @@
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E4M",
@@ -2012,7 +2012,7 @@
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E4M",
@@ -2025,7 +2025,7 @@
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO5M",
@@ -2033,12 +2033,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.00",
+    "ratevalue": "1.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E5M",
@@ -2046,12 +2046,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.03",
+    "ratevalue": "1.23",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E5M",
@@ -2059,12 +2059,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.07",
+    "ratevalue": "1.29",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E5M",
@@ -2072,12 +2072,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.18",
+    "ratevalue": "1.42",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO6M",
@@ -2090,7 +2090,7 @@
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E6M",
@@ -2103,7 +2103,7 @@
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E6M",
@@ -2116,7 +2116,7 @@
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E6M",
@@ -2129,7 +2129,7 @@
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO7M",
@@ -2142,7 +2142,7 @@
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E7M",
@@ -2155,7 +2155,7 @@
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E7M",
@@ -2168,7 +2168,7 @@
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E7M",
@@ -2181,7 +2181,7 @@
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO8M",
@@ -2194,7 +2194,7 @@
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E8M",
@@ -2207,7 +2207,7 @@
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E8M",
@@ -2220,7 +2220,7 @@
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E8M",
@@ -2233,7 +2233,7 @@
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO9M",
@@ -2246,7 +2246,7 @@
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E9M",
@@ -2259,7 +2259,7 @@
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E9M",
@@ -2272,7 +2272,7 @@
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E9M",
@@ -2285,7 +2285,7 @@
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO12M",
@@ -2293,12 +2293,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.85",
+    "ratevalue": "2.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E1Y",
@@ -2306,12 +2306,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.90",
+    "ratevalue": "2.06",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E1Y",
@@ -2319,12 +2319,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.99",
+    "ratevalue": "2.15",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E1Y",
@@ -2332,12 +2332,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.18",
+    "ratevalue": "2.36",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO18M",
@@ -2345,12 +2345,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.00",
+    "ratevalue": "2.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E18M",
@@ -2358,12 +2358,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.06",
+    "ratevalue": "2.16",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E18M",
@@ -2371,12 +2371,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.15",
+    "ratevalue": "2.26",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E18M",
@@ -2384,12 +2384,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.36",
+    "ratevalue": "2.48",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETI24M",
@@ -2397,12 +2397,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.30",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E2Y",
@@ -2410,12 +2410,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.37",
+    "ratevalue": "2.57",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E2Y",
@@ -2423,12 +2423,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.47",
+    "ratevalue": "2.69",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E2Y",
@@ -2436,12 +2436,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.71",
+    "ratevalue": "2.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO24M",
@@ -2449,12 +2449,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.30",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "24 months",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO3Y",
@@ -2462,12 +2462,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.60",
+    "ratevalue": "3.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E3Y",
@@ -2475,12 +2475,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.67",
+    "ratevalue": "3.09",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E3Y",
@@ -2488,12 +2488,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.79",
+    "ratevalue": "3.22",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E3Y",
@@ -2501,12 +2501,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.07",
+    "ratevalue": "3.54",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO4Y",
@@ -2514,12 +2514,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.90",
+    "ratevalue": "3.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E4Y",
@@ -2527,12 +2527,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.98",
+    "ratevalue": "3.09",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E4Y",
@@ -2540,12 +2540,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.12",
+    "ratevalue": "3.22",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E4Y",
@@ -2553,12 +2553,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.42",
+    "ratevalue": "3.54",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PPIETO5Y",
@@ -2571,7 +2571,7 @@
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ30E5Y",
@@ -2584,7 +2584,7 @@
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ33E5Y",
@@ -2597,7 +2597,7 @@
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PTNZ39E5Y",
@@ -2610,7 +2610,7 @@
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Thursday, 11 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "PDSSNZI",
