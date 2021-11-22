@@ -231,11 +231,11 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "HFRNZ6MILE",
-    "isactive": "0",
+    "isactive": "1",
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
@@ -244,7 +244,7 @@
     "ratenote": "",
     "tiername1": "6 months",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "HFRNZ1ILE",
@@ -257,7 +257,7 @@
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "HFRNZ18MIL",
@@ -270,7 +270,7 @@
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "HFRNZ2ILE",
@@ -283,7 +283,7 @@
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "HFRNZ3ILE",
@@ -296,7 +296,7 @@
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "HFRNZ4ILE",
@@ -309,7 +309,7 @@
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "HFRNZ5ILE",
@@ -322,7 +322,7 @@
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "HFPNZILE",
@@ -335,7 +335,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 22 November 2021"
+    "sectioneffectivedate": "Tuesday, 23 November 2021"
   },
   {
     "code": "NZARCP",
