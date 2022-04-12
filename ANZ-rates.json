@@ -4755,7 +4755,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BLCLBL",
@@ -4768,7 +4768,7 @@
     "ratenote": "",
     "tiername1": "Business loan Floating or Fixed interest rates",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BLCLCL",
@@ -4781,7 +4781,7 @@
     "ratenote": "",
     "tiername1": "Commercial loan Floating or Fixed interest rates",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BFFBR1",
@@ -4794,7 +4794,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "FFBR",
@@ -4807,7 +4807,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BTLR",
@@ -4820,7 +4820,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BPLR",
@@ -4833,7 +4833,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BSLR",
@@ -4846,7 +4846,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BCDA1B",
@@ -4859,7 +4859,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BCDA2B",
@@ -4872,7 +4872,7 @@
     "ratenote": "",
     "tiername1": "$5,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BCA1B",
@@ -4885,7 +4885,7 @@
     "ratenote": "",
     "tiername1": "$0 - $49,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BCDAB2",
@@ -4898,7 +4898,7 @@
     "ratenote": "",
     "tiername1": "$50,000 - $99,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BCA4B",
@@ -4911,7 +4911,7 @@
     "ratenote": "",
     "tiername1": "$100,000 - $249,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BCA5B",
@@ -4924,7 +4924,7 @@
     "ratenote": "",
     "tiername1": "$250,000 - $499,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BCA6B",
@@ -4937,7 +4937,7 @@
     "ratenote": "",
     "tiername1": "$500,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "NPOA1I",
@@ -4950,20 +4950,20 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BBIRI",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from the 11th April 2022",
+    "ratename": "Effective from the 12th April 2022",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.46",
+    "ratevalue": "3.47",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BCIRI",
@@ -4976,7 +4976,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "BPTLFIRI",
@@ -4989,7 +4989,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 11 April 2022"
+    "sectioneffectivedate": "Tuesday, 12 April 2022"
   },
   {
     "code": "DIR3I",
