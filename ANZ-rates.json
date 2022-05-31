@@ -2618,12 +2618,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Standard rate",
-    "ratevalue": "0.20",
+    "ratevalue": "0.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDSSNZB",
@@ -2631,12 +2631,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Premium rate",
-    "ratevalue": "0.90",
+    "ratevalue": "1.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDSSNZT",
@@ -2644,12 +2644,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Total",
-    "ratevalue": "1.10",
+    "ratevalue": "1.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDYANZI",
@@ -2662,7 +2662,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "Interest Rate",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDANZ1B",
@@ -2675,7 +2675,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDANZ3B",
@@ -2688,7 +2688,7 @@
     "ratenote": "",
     "tiername1": "$5,000 - $49,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDANZ4B",
@@ -2701,7 +2701,7 @@
     "ratenote": "",
     "tiername1": "$50,000 - $99,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDANZ5B",
@@ -2714,7 +2714,7 @@
     "ratenote": "",
     "tiername1": "$100,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDOCANZ1B",
@@ -2727,7 +2727,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDRSNZ01",
@@ -2740,7 +2740,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDRSNZ02",
@@ -2753,7 +2753,7 @@
     "ratenote": "",
     "tiername1": "$5,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PPIECONZ3M",
@@ -2766,7 +2766,7 @@
     "ratenote": "",
     "tiername1": "$0+",
     "tiername2": "Interest Rate",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDPBCNZ01",
@@ -2779,7 +2779,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PDPBRNZ01",
@@ -2792,7 +2792,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PCRNR",
@@ -2805,7 +2805,7 @@
     "ratenote": "",
     "tiername1": "Normal Rate",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PCR30",
@@ -2818,7 +2818,7 @@
     "ratenote": "",
     "tiername1": "Rate on income tax at 30%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PCR33",
@@ -2831,7 +2831,7 @@
     "ratenote": "",
     "tiername1": "Rate on income tax at 33%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "PCR39",
@@ -2844,7 +2844,7 @@
     "ratenote": "",
     "tiername1": "Rate on income tax at 39%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Tuesday, 3 May 2022"
+    "sectioneffectivedate": "Wednesday, 1 June 2022"
   },
   {
     "code": "FCTUSDB1C1",
