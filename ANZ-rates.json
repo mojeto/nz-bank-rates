@@ -5005,6 +5005,19 @@
     "sectioneffectivedate": "Friday, 2 September 2022"
   },
   {
+    "code": "BGLFRATE",
+    "isactive": "1",
+    "isfordisplay": "1",
+    "ratename": "Business Green Loan floating rate",
+    "ratetype": "Interest Rate",
+    "ratevalue": "3.85",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Friday, 2 September 2022"
+  },
+  {
     "code": "DIR3I",
     "isactive": "1",
     "isfordisplay": "1",
