@@ -5127,12 +5127,12 @@
     "isfordisplay": "0",
     "ratename": "ANZ Institutional Overdraft Base Rate",
     "ratetype": "Base Rate",
-    "ratevalue": "5.25",
+    "ratevalue": "8.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 28 September 2021"
+    "sectioneffectivedate": "Friday, 7 October 2022"
   },
   {
     "code": "ODE1",
@@ -5140,11 +5140,11 @@
     "isfordisplay": "0",
     "ratename": "ANZ Institutional Overdraft Base Excess Margin",
     "ratetype": "Base Rate",
-    "ratevalue": "8.00",
+    "ratevalue": "7.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 28 September 2021"
+    "sectioneffectivedate": "Friday, 7 October 2022"
   }
 ]
