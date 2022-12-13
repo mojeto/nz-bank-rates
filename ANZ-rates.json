@@ -4761,9 +4761,9 @@
     "code": "BOBR",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from 25th October 2022",
+    "ratename": "Effective from 14 December 2022",
     "ratetype": "Interest Rate",
-    "ratevalue": "13.60",
+    "ratevalue": "14.25",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
@@ -4982,9 +4982,9 @@
     "code": "BCIRI",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from 25th October 2022",
+    "ratename": "Effective from 14 December 2022",
     "ratetype": "Interest Rate",
-    "ratevalue": "11.60",
+    "ratevalue": "12.25",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
@@ -5028,7 +5028,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 7 December 2022"
+    "sectioneffectivedate": "Wednesday, 14 December 2022"
   },
   {
     "code": "DIR1I",
@@ -5036,12 +5036,12 @@
     "isfordisplay": "1",
     "ratename": "Agri Current Account Base Rate",
     "ratetype": "Interest Rate",
-    "ratevalue": "9.80",
+    "ratevalue": "10.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 7 December 2022"
+    "sectioneffectivedate": "Wednesday, 14 December 2022"
   },
   {
     "code": "AFFR",
@@ -5054,7 +5054,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 7 December 2022"
+    "sectioneffectivedate": "Wednesday, 14 December 2022"
   },
   {
     "code": "DIR2I",
@@ -5067,7 +5067,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 7 December 2022"
+    "sectioneffectivedate": "Wednesday, 14 December 2022"
   },
   {
     "code": "CIR1I",
@@ -5080,7 +5080,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 7 December 2022"
+    "sectioneffectivedate": "Wednesday, 14 December 2022"
   },
   {
     "code": "CIR2I",
@@ -5093,7 +5093,7 @@
     "ratenote": "",
     "tiername1": "$5,000 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 7 December 2022"
+    "sectioneffectivedate": "Wednesday, 14 December 2022"
   },
   {
     "code": "CIR3I",
@@ -5106,7 +5106,7 @@
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 7 December 2022"
+    "sectioneffectivedate": "Wednesday, 14 December 2022"
   },
   {
     "code": "CIR4I",
@@ -5119,7 +5119,7 @@
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 7 December 2022"
+    "sectioneffectivedate": "Wednesday, 14 December 2022"
   },
   {
     "code": "OD1",
