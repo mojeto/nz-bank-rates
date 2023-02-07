@@ -5018,6 +5018,32 @@
     "sectioneffectivedate": "Tuesday, 7 February 2023"
   },
   {
+    "code": "BPCA1I",
+    "isactive": "1",
+    "isfordisplay": "1",
+    "ratename": "",
+    "ratetype": "Interest Rate",
+    "ratevalue": "1.95",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "$0 - $24,999",
+    "tiername2": "",
+    "sectioneffectivedate": "Tuesday, 7 February 2023"
+  },
+  {
+    "code": "BPCA2I",
+    "isactive": "1",
+    "isfordisplay": "1",
+    "ratename": "",
+    "ratetype": "Interest Rate",
+    "ratevalue": "1.95",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "$25,000+",
+    "tiername2": "",
+    "sectioneffectivedate": "Tuesday, 7 February 2023"
+  },
+  {
     "code": "DIR3I",
     "isactive": "1",
     "isfordisplay": "1",
