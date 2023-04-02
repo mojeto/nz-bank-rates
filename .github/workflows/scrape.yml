@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Fetch latest data
       run: |-
         curl -XGET "https://www.anz.co.nz/bin/anzconz/rates/?format=JSON&t=$(date +%s)" -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" | jq . > ANZ-rates.json
