@@ -5229,9 +5229,9 @@
     "code": "BOBR",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from 22 March 2023",
+    "ratename": "Effective from 27 April 2023",
     "ratetype": "Interest Rate",
-    "ratevalue": "14.90",
+    "ratevalue": "15.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
@@ -5450,9 +5450,9 @@
     "code": "BCIRI",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from 22 March 2023",
+    "ratename": "Effective from 27 April 2023",
     "ratetype": "Interest Rate",
-    "ratevalue": "12.90",
+    "ratevalue": "13.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
@@ -5522,7 +5522,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 13 April 2023"
+    "sectioneffectivedate": "Thursday, 27 April 2023"
   },
   {
     "code": "DIR1I",
@@ -5530,12 +5530,12 @@
     "isfordisplay": "1",
     "ratename": "Agri Current Account Base Rate",
     "ratetype": "Interest Rate",
-    "ratevalue": "11.10",
+    "ratevalue": "11.40",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 13 April 2023"
+    "sectioneffectivedate": "Thursday, 27 April 2023"
   },
   {
     "code": "AFFR",
@@ -5548,7 +5548,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 13 April 2023"
+    "sectioneffectivedate": "Thursday, 27 April 2023"
   },
   {
     "code": "DIR2I",
@@ -5561,7 +5561,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 13 April 2023"
+    "sectioneffectivedate": "Thursday, 27 April 2023"
   },
   {
     "code": "CIR1I",
@@ -5574,7 +5574,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 13 April 2023"
+    "sectioneffectivedate": "Thursday, 27 April 2023"
   },
   {
     "code": "CIR2I",
@@ -5587,7 +5587,7 @@
     "ratenote": "",
     "tiername1": "$5,000 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 13 April 2023"
+    "sectioneffectivedate": "Thursday, 27 April 2023"
   },
   {
     "code": "CIR3I",
@@ -5600,7 +5600,7 @@
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 13 April 2023"
+    "sectioneffectivedate": "Thursday, 27 April 2023"
   },
   {
     "code": "CIR4I",
@@ -5613,7 +5613,7 @@
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 13 April 2023"
+    "sectioneffectivedate": "Thursday, 27 April 2023"
   },
   {
     "code": "OD1",
