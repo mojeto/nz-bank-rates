@@ -5236,7 +5236,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BLCLBL",
@@ -5249,7 +5249,7 @@
     "ratenote": "",
     "tiername1": "Business loan Floating or Fixed interest rates",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BLCLCL",
@@ -5262,7 +5262,7 @@
     "ratenote": "",
     "tiername1": "Commercial loan Floating or Fixed interest rates",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BFFBR1",
@@ -5275,7 +5275,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "FFBR",
@@ -5288,7 +5288,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BTLR",
@@ -5301,7 +5301,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BPLR",
@@ -5314,7 +5314,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BSLR",
@@ -5327,7 +5327,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BCDA1B",
@@ -5340,7 +5340,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BCDA2B",
@@ -5353,7 +5353,7 @@
     "ratenote": "",
     "tiername1": "$5,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BCA1B",
@@ -5366,7 +5366,7 @@
     "ratenote": "",
     "tiername1": "$0 - $49,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BCDAB2",
@@ -5379,7 +5379,7 @@
     "ratenote": "",
     "tiername1": "$50,000 - $99,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BCA4B",
@@ -5392,7 +5392,7 @@
     "ratenote": "",
     "tiername1": "$100,000 - $249,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BCA5B",
@@ -5405,7 +5405,7 @@
     "ratenote": "",
     "tiername1": "$250,000 - $499,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BCA6B",
@@ -5418,7 +5418,7 @@
     "ratenote": "",
     "tiername1": "$500,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "NPOA1I",
@@ -5431,20 +5431,20 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BBIRI",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from 3 May 2023",
+    "ratename": "Effective from 8th May 2023",
     "ratetype": "Interest Rate",
-    "ratevalue": "7.39",
+    "ratevalue": "7.41",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BCIRI",
@@ -5457,7 +5457,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BPTLFIRI",
@@ -5470,7 +5470,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BGLFRATE",
@@ -5483,7 +5483,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BPCA1I",
@@ -5496,7 +5496,7 @@
     "ratenote": "",
     "tiername1": "$0 - $24,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "BPCA2I",
@@ -5509,7 +5509,7 @@
     "ratenote": "",
     "tiername1": "$25,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 3 May 2023"
+    "sectioneffectivedate": "Monday, 8 May 2023"
   },
   {
     "code": "DIR3I",
