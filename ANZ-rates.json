@@ -5491,7 +5491,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 - $24,999",
@@ -5504,7 +5504,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$25,000+",
@@ -5522,7 +5522,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 8 June 2023"
+    "sectioneffectivedate": "Tuesday, 13 June 2023"
   },
   {
     "code": "DIR1I",
@@ -5535,7 +5535,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 8 June 2023"
+    "sectioneffectivedate": "Tuesday, 13 June 2023"
   },
   {
     "code": "AFFR",
@@ -5548,7 +5548,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 8 June 2023"
+    "sectioneffectivedate": "Tuesday, 13 June 2023"
   },
   {
     "code": "DIR2I",
@@ -5561,7 +5561,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 8 June 2023"
+    "sectioneffectivedate": "Tuesday, 13 June 2023"
   },
   {
     "code": "CIR1I",
@@ -5569,12 +5569,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 8 June 2023"
+    "sectioneffectivedate": "Tuesday, 13 June 2023"
   },
   {
     "code": "CIR2I",
@@ -5582,12 +5582,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$5,000 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 8 June 2023"
+    "sectioneffectivedate": "Tuesday, 13 June 2023"
   },
   {
     "code": "CIR3I",
@@ -5595,12 +5595,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 8 June 2023"
+    "sectioneffectivedate": "Tuesday, 13 June 2023"
   },
   {
     "code": "CIR4I",
@@ -5608,12 +5608,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 8 June 2023"
+    "sectioneffectivedate": "Tuesday, 13 June 2023"
   },
   {
     "code": "OD1",
