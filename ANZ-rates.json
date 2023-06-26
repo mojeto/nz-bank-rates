@@ -5640,5 +5640,57 @@
     "tiername1": "",
     "tiername2": "",
     "sectioneffectivedate": "Friday, 7 October 2022"
+  },
+  {
+    "code": "230626TR11",
+    "isactive": "0",
+    "isfordisplay": "0",
+    "ratename": "Test AWS Migration Go-Live Rate 11",
+    "ratetype": "Base Rate",
+    "ratevalue": "3.3",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Monday, 26 June 2023"
+  },
+  {
+    "code": "230626TR12",
+    "isactive": "0",
+    "isfordisplay": "0",
+    "ratename": "Test AWS Migration Go-Live Rate 12",
+    "ratetype": "Base Rate",
+    "ratevalue": "1.45",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Monday, 26 June 2023"
+  },
+  {
+    "code": "230626TR31",
+    "isactive": "0",
+    "isfordisplay": "0",
+    "ratename": "Test AWS Migration Rate 31",
+    "ratetype": "Comparison Rate",
+    "ratevalue": "2.56",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Monday, 26 June 2023"
+  },
+  {
+    "code": "230626TR32",
+    "isactive": "0",
+    "isfordisplay": "0",
+    "ratename": "Test AWS Migration Rate 32",
+    "ratetype": "Comparison Rate",
+    "ratevalue": "1.45",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Monday, 26 June 2023"
   }
 ]
