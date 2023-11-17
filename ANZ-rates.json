@@ -5653,5 +5653,18 @@
     "tiername1": "",
     "tiername2": "",
     "sectioneffectivedate": "Tuesday, July 25, 2023"
+  },
+  {
+    "code": "N702091111",
+    "isactive": "0",
+    "isfordisplay": "0",
+    "ratename": "CHG0702091 - Test Rate 1",
+    "ratetype": "Premium rate",
+    "ratevalue": "0.5",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Saturday, November 18, 2023"
   }
 ]
