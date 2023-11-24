@@ -5665,6 +5665,19 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 18 November 2023"
+    "sectioneffectivedate": "Saturday, 25 November 2023"
+  },
+  {
+    "code": "N672342121",
+    "isactive": "0",
+    "isfordisplay": "0",
+    "ratename": "CHG0672342 - Test Rate 1",
+    "ratetype": "Interest Only",
+    "ratevalue": "0.77",
+    "ratesuffix": "% p.a.",
+    "ratenote": "CHG0672342 - Test Rate 1",
+    "tiername1": "",
+    "tiername2": "",
+    "sectioneffectivedate": "Saturday, 25 November 2023"
   }
 ]
