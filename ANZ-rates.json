@@ -5665,7 +5665,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 25 November 2023"
+    "sectioneffectivedate": "Saturday, 9 December 2023"
   },
   {
     "code": "N672342121",
@@ -5678,6 +5678,32 @@
     "ratenote": "CHG0672342 - Test Rate 1",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 25 November 2023"
+    "sectioneffectivedate": "Saturday, 9 December 2023"
+  },
+  {
+    "code": "N702091131",
+    "isactive": "0",
+    "isfordisplay": "0",
+    "ratename": "",
+    "ratetype": "Interest Rate",
+    "ratevalue": "0.67",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "CHG0702091 - Test Rate 1",
+    "tiername2": "",
+    "sectioneffectivedate": "Saturday, 9 December 2023"
+  },
+  {
+    "code": "N702091132",
+    "isactive": "0",
+    "isfordisplay": "0",
+    "ratename": "",
+    "ratetype": "Interest Rate",
+    "ratevalue": "1.5",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "CHG0702091 - Test Rate 2",
+    "tiername2": "",
+    "sectioneffectivedate": "Saturday, 9 December 2023"
   }
 ]
