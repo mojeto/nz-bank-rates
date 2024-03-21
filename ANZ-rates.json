@@ -361,7 +361,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZARCC",
@@ -374,7 +374,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZARCBT",
@@ -387,7 +387,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZMCP",
@@ -400,7 +400,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZMCC",
@@ -413,7 +413,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZMCBT",
@@ -426,7 +426,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVP",
@@ -434,12 +434,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "12.90",
+    "ratevalue": "13.90",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVC",
@@ -447,12 +447,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBT",
@@ -465,7 +465,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZMCGP",
@@ -478,7 +478,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZMCGC",
@@ -491,7 +491,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZMCGBT",
@@ -504,7 +504,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVGP",
@@ -512,12 +512,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVGC",
@@ -525,12 +525,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVGBT",
@@ -543,7 +543,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCMP",
@@ -556,7 +556,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCMC",
@@ -569,7 +569,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCMBT",
@@ -582,7 +582,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCVP",
@@ -590,12 +590,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCVC",
@@ -603,12 +603,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCVBT",
@@ -621,7 +621,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCVGP",
@@ -629,12 +629,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCVGC",
@@ -642,12 +642,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCGBT",
@@ -660,7 +660,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCVPP",
@@ -668,12 +668,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCVPC",
@@ -681,12 +681,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCVPBT",
@@ -699,7 +699,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCPMP",
@@ -712,7 +712,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCPMC",
@@ -725,7 +725,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZCPMBT",
@@ -738,7 +738,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZAPCP",
@@ -746,12 +746,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZAPCC",
@@ -759,12 +759,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZAPCBT",
@@ -777,7 +777,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZAPPP",
@@ -785,12 +785,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZAPPC",
@@ -798,12 +798,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZAPPBT",
@@ -816,7 +816,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZQVP",
@@ -824,12 +824,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZQVC",
@@ -837,12 +837,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZQVBT",
@@ -855,7 +855,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZQVPP",
@@ -863,12 +863,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZQVPC",
@@ -876,12 +876,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZQVPBT",
@@ -894,7 +894,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZLIVP",
@@ -902,12 +902,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "12.90",
+    "ratevalue": "13.90",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZLIVC",
@@ -915,12 +915,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZALIVBT",
@@ -933,7 +933,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZFMCP",
@@ -946,7 +946,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZFMCC",
@@ -959,7 +959,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZAFMBT",
@@ -972,7 +972,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBCP",
@@ -980,12 +980,12 @@
     "isfordisplay": "1",
     "ratename": "Low interest rate option",
     "ratetype": "Purchases",
-    "ratevalue": "12.90",
+    "ratevalue": "13.90",
     "ratesuffix": "% p.a.",
     "ratenote": ".t.",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBCC",
@@ -993,12 +993,12 @@
     "isfordisplay": "1",
     "ratename": "Low interest rate option",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBCI",
@@ -1011,7 +1011,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBCIF",
@@ -1024,7 +1024,7 @@
     "ratenote": "days",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBAP",
@@ -1032,12 +1032,12 @@
     "isfordisplay": "1",
     "ratename": "Airpoints Rewards Option",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBAC",
@@ -1045,12 +1045,12 @@
     "isfordisplay": "1",
     "ratename": "Airpoints Rewards Option",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVIFDI",
@@ -1063,7 +1063,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVIFDIF",
@@ -1076,7 +1076,7 @@
     "ratenote": "days",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVIFDP",
@@ -1084,12 +1084,12 @@
     "isfordisplay": "0",
     "ratename": "Low fee option",
     "ratetype": "Purchases",
-    "ratevalue": "12.90",
+    "ratevalue": "13.90",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVIFDCC",
@@ -1097,12 +1097,12 @@
     "isfordisplay": "0",
     "ratename": "Low fee option",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBCRP",
@@ -1110,12 +1110,12 @@
     "isfordisplay": "1",
     "ratename": "CashBacks option",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBCRC",
@@ -1123,12 +1123,12 @@
     "isfordisplay": "1",
     "ratename": "CashBacks option",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBCRI",
@@ -1141,7 +1141,7 @@
     "ratenote": "for 24 months",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVBCRIF",
@@ -1154,7 +1154,7 @@
     "ratenote": "days",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVCP",
@@ -1162,12 +1162,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "NZVCC",
@@ -1175,12 +1175,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "BVPP",
@@ -1188,12 +1188,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Purchases",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "BVPC",
@@ -1201,12 +1201,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Cash Advances",
-    "ratevalue": "19.95",
+    "ratevalue": "20.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "BMCPN",
@@ -1219,7 +1219,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "BMCCN",
@@ -1232,7 +1232,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "BPMCP",
@@ -1245,7 +1245,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "BPMCC",
@@ -1258,7 +1258,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Thursday, 15 April 2021"
+    "sectioneffectivedate": "Friday, 22 March 2024"
   },
   {
     "code": "PLVRNZLI",
