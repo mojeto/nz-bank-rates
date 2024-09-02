@@ -5335,7 +5335,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.75",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 - $4,999",
@@ -5348,7 +5348,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.75",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$5,000+",
@@ -5491,7 +5491,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.45",
+    "ratevalue": "2.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 - $24,999",
@@ -5504,7 +5504,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.45",
+    "ratevalue": "2.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$25,000+",
@@ -5535,7 +5535,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 27 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "DIR1I",
@@ -5548,7 +5548,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 27 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "AFFR",
@@ -5561,7 +5561,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 27 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "DIR2I",
@@ -5574,7 +5574,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 27 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "CIR1I",
@@ -5582,12 +5582,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.45",
+    "ratevalue": "2.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 27 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "CIR2I",
@@ -5595,12 +5595,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.45",
+    "ratevalue": "2.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$5,000 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 27 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "CIR3I",
@@ -5608,12 +5608,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.45",
+    "ratevalue": "2.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 27 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "CIR4I",
@@ -5621,12 +5621,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.45",
+    "ratevalue": "2.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 27 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "OD1",
