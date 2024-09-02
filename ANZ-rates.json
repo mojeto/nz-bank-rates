@@ -2636,7 +2636,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDSSNZB",
@@ -2649,7 +2649,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDSSNZT",
@@ -2662,7 +2662,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDYANZI",
@@ -2675,7 +2675,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "Interest Rate",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDANZ1B",
@@ -2688,7 +2688,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDANZ3B",
@@ -2696,12 +2696,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.40",
+    "ratevalue": "1.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$5,000 - $49,999",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDANZ4B",
@@ -2709,12 +2709,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.40",
+    "ratevalue": "1.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$50,000 - $99,999",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDANZ5B",
@@ -2722,12 +2722,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.40",
+    "ratevalue": "1.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$100,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDOCANZ1B",
@@ -2735,12 +2735,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.75",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDRSNZ01",
@@ -2753,7 +2753,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDRSNZ02",
@@ -2766,7 +2766,7 @@
     "ratenote": "",
     "tiername1": "$5,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PPIECONZ3M",
@@ -2774,12 +2774,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.75",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0+",
     "tiername2": "Interest Rate",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDPBCNZ01",
@@ -2787,12 +2787,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.75",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PDPBRNZ01",
@@ -2800,12 +2800,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.75",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PCRNR",
@@ -2813,12 +2813,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.75",
+    "ratevalue": "2.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "Normal Rate",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PCR30",
@@ -2826,12 +2826,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.83",
+    "ratevalue": "2.57",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "Rate on income tax at 30%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PCR33",
@@ -2839,12 +2839,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.96",
+    "ratevalue": "2.69",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "Rate on income tax at 33%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "PCR39",
@@ -2852,12 +2852,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.25",
+    "ratevalue": "2.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "Rate on income tax at 39%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Saturday, 31 August 2024"
+    "sectioneffectivedate": "Tuesday, 3 September 2024"
   },
   {
     "code": "FCTUSDB1C1",
