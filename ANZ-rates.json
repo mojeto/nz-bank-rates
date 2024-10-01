@@ -57,7 +57,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "6.29",
+    "ratevalue": "6.39",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
@@ -70,7 +70,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "6.29",
+    "ratevalue": "6.39",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
@@ -83,7 +83,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "6.19",
+    "ratevalue": "6.29",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
@@ -96,7 +96,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "6.19",
+    "ratevalue": "6.29",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "5 years",
@@ -231,7 +231,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFRNZ6MILE",
@@ -239,12 +239,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "6.75",
+    "ratevalue": "6.85",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "6 months",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFRNZ1ILE",
@@ -252,12 +252,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "6.19",
+    "ratevalue": "6.35",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFRNZ18MIL",
@@ -265,12 +265,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.89",
+    "ratevalue": "5.99",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFRNZ2ILE",
@@ -278,12 +278,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.69",
+    "ratevalue": "5.79",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFRNZ3ILE",
@@ -291,12 +291,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.69",
+    "ratevalue": "5.79",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFRNZ4ILE",
@@ -309,7 +309,7 @@
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFRNZ5ILE",
@@ -322,7 +322,7 @@
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "Special Interest Rate*",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFPNZILE",
@@ -335,7 +335,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "HFRNZIGE",
@@ -348,7 +348,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 2 October 2024"
+    "sectioneffectivedate": "Thursday, 12 September 2024"
   },
   {
     "code": "NZARCP",
