@@ -2631,12 +2631,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Standard rate",
-    "ratevalue": "1.20",
+    "ratevalue": "0.85",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDSSNZB",
@@ -2644,12 +2644,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Premium rate",
-    "ratevalue": "3.05",
+    "ratevalue": "2.90",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDSSNZT",
@@ -2657,12 +2657,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Total",
-    "ratevalue": "4.25",
+    "ratevalue": "3.75",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDYANZI",
@@ -2675,7 +2675,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "Interest Rate",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDANZ1B",
@@ -2688,7 +2688,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDANZ3B",
@@ -2701,7 +2701,7 @@
     "ratenote": "",
     "tiername1": "$5,000 - $49,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDANZ4B",
@@ -2714,7 +2714,7 @@
     "ratenote": "",
     "tiername1": "$50,000 - $99,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDANZ5B",
@@ -2727,7 +2727,7 @@
     "ratenote": "",
     "tiername1": "$100,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDOCANZ1B",
@@ -2740,7 +2740,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDRSNZ01",
@@ -2753,7 +2753,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDRSNZ02",
@@ -2766,7 +2766,7 @@
     "ratenote": "",
     "tiername1": "$5,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PPIECONZ3M",
@@ -2779,7 +2779,7 @@
     "ratenote": "",
     "tiername1": "$0+",
     "tiername2": "Interest Rate",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDPBCNZ01",
@@ -2792,7 +2792,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PDPBRNZ01",
@@ -2805,7 +2805,7 @@
     "ratenote": "",
     "tiername1": "$0 +",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PCRNR",
@@ -2818,7 +2818,7 @@
     "ratenote": "",
     "tiername1": "Normal Rate",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PCR30",
@@ -2831,7 +2831,7 @@
     "ratenote": "",
     "tiername1": "Rate on income tax at 30%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PCR33",
@@ -2844,7 +2844,7 @@
     "ratenote": "",
     "tiername1": "Rate on income tax at 33%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "PCR39",
@@ -2857,7 +2857,7 @@
     "ratenote": "",
     "tiername1": "Rate on income tax at 39%",
     "tiername2": "Rate of Return",
-    "sectioneffectivedate": "Tuesday, 22 October 2024"
+    "sectioneffectivedate": "Friday, 1 November 2024"
   },
   {
     "code": "FCTUSDB1C1",
