@@ -5229,9 +5229,9 @@
     "code": "BOBR",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from 12 November 2024",
+    "ratename": "Effective from 10 December 2024",
     "ratetype": "Interest Rate",
-    "ratevalue": "14.75",
+    "ratevalue": "14.35",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
@@ -5450,9 +5450,9 @@
     "code": "BCIRI",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from 12 November 2024",
+    "ratename": "Effective from 10 December 2024",
     "ratetype": "Interest Rate",
-    "ratevalue": "12.75",
+    "ratevalue": "12.35",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
@@ -5491,7 +5491,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.70",
+    "ratevalue": "1.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 - $24,999",
@@ -5504,7 +5504,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "1.70",
+    "ratevalue": "1.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$25,000+",
@@ -5535,7 +5535,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 December 2024"
+    "sectioneffectivedate": "Tuesday, 10 December 2024"
   },
   {
     "code": "DIR1I",
@@ -5543,12 +5543,12 @@
     "isfordisplay": "1",
     "ratename": "Agri Current Account Base Rate",
     "ratetype": "Interest Rate",
-    "ratevalue": "10.95",
+    "ratevalue": "10.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 December 2024"
+    "sectioneffectivedate": "Tuesday, 10 December 2024"
   },
   {
     "code": "AFFR",
@@ -5561,7 +5561,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 December 2024"
+    "sectioneffectivedate": "Tuesday, 10 December 2024"
   },
   {
     "code": "DIR2I",
@@ -5574,7 +5574,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 December 2024"
+    "sectioneffectivedate": "Tuesday, 10 December 2024"
   },
   {
     "code": "CIR1I",
@@ -5587,7 +5587,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 December 2024"
+    "sectioneffectivedate": "Tuesday, 10 December 2024"
   },
   {
     "code": "CIR2I",
@@ -5600,7 +5600,7 @@
     "ratenote": "",
     "tiername1": "$5,000 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 December 2024"
+    "sectioneffectivedate": "Tuesday, 10 December 2024"
   },
   {
     "code": "CIR3I",
@@ -5613,7 +5613,7 @@
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 December 2024"
+    "sectioneffectivedate": "Tuesday, 10 December 2024"
   },
   {
     "code": "CIR4I",
@@ -5626,7 +5626,7 @@
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 3 December 2024"
+    "sectioneffectivedate": "Tuesday, 10 December 2024"
   },
   {
     "code": "OD1",
