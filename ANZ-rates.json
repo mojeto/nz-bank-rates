@@ -5236,7 +5236,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BLCLBL",
@@ -5249,7 +5249,7 @@
     "ratenote": "",
     "tiername1": "Business loan Floating or Fixed interest rates",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BLCLCL",
@@ -5262,7 +5262,7 @@
     "ratenote": "",
     "tiername1": "Commercial loan Floating or Fixed interest rates",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BFFBR1",
@@ -5275,7 +5275,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "FFBR",
@@ -5288,7 +5288,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BTLR",
@@ -5296,12 +5296,12 @@
     "isfordisplay": "1",
     "ratename": "Business Term Loan floating base rate",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.70",
+    "ratevalue": "5.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BPLR",
@@ -5309,12 +5309,12 @@
     "isfordisplay": "1",
     "ratename": "Term loan floating base rate",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.70",
+    "ratevalue": "5.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BSLR",
@@ -5322,12 +5322,12 @@
     "isfordisplay": "1",
     "ratename": "Term loan floating base rate",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.70",
+    "ratevalue": "5.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BCDA1B",
@@ -5340,7 +5340,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BCDA2B",
@@ -5353,7 +5353,7 @@
     "ratenote": "",
     "tiername1": "$5,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BCA1B",
@@ -5366,7 +5366,7 @@
     "ratenote": "",
     "tiername1": "$0 - $49,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BCDAB2",
@@ -5379,7 +5379,7 @@
     "ratenote": "",
     "tiername1": "$50,000 - $99,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BCA4B",
@@ -5392,7 +5392,7 @@
     "ratenote": "",
     "tiername1": "$100,000 - $249,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BCA5B",
@@ -5405,7 +5405,7 @@
     "ratenote": "",
     "tiername1": "$250,000 - $499,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BCA6B",
@@ -5418,7 +5418,7 @@
     "ratenote": "",
     "tiername1": "$500,000 +",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "NPOA1I",
@@ -5431,7 +5431,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BBIRI",
@@ -5444,7 +5444,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BCIRI",
@@ -5457,7 +5457,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BPTLFIRI",
@@ -5470,7 +5470,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BGLFRATE",
@@ -5478,12 +5478,12 @@
     "isfordisplay": "1",
     "ratename": "Business green loan floating rate",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.10",
+    "ratevalue": "4.85",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BPCA1I",
@@ -5496,7 +5496,7 @@
     "ratenote": "",
     "tiername1": "$0 - $24,999",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BPCA2I",
@@ -5509,7 +5509,7 @@
     "ratenote": "",
     "tiername1": "$25,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "BRLFRATE",
@@ -5522,7 +5522,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 3 February 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "DIR3I",
@@ -5530,12 +5530,12 @@
     "isfordisplay": "1",
     "ratename": "Business Term Loan base rate - floating",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.70",
+    "ratevalue": "5.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Friday, 3 January 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "DIR1I",
@@ -5548,7 +5548,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Friday, 3 January 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "AFFR",
@@ -5561,7 +5561,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Friday, 3 January 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "DIR2I",
@@ -5574,7 +5574,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Friday, 3 January 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "CIR1I",
@@ -5587,7 +5587,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Friday, 3 January 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "CIR2I",
@@ -5600,7 +5600,7 @@
     "ratenote": "",
     "tiername1": "$5,000 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Friday, 3 January 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "CIR3I",
@@ -5613,7 +5613,7 @@
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Friday, 3 January 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "CIR4I",
@@ -5626,7 +5626,7 @@
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Friday, 3 January 2025"
+    "sectioneffectivedate": "Tuesday, 4 February 2025"
   },
   {
     "code": "OD1",
