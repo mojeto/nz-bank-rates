@@ -5647,12 +5647,12 @@
     "isfordisplay": "0",
     "ratename": "ANZ Institutional Overdraft Base Rate",
     "ratetype": "Base Rate",
-    "ratevalue": "7.05",
+    "ratevalue": "6.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 17 March 2025"
+    "sectioneffectivedate": "Wednesday, 23 July 2025"
   },
   {
     "code": "ODE1",
@@ -5665,7 +5665,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Monday, 17 March 2025"
+    "sectioneffectivedate": "Wednesday, 23 July 2025"
   },
   {
     "code": "N702091111",
