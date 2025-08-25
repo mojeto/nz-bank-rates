@@ -5491,7 +5491,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.40",
+    "ratevalue": "0.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 - $24,999",
@@ -5504,7 +5504,7 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.40",
+    "ratevalue": "0.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$25,000+",
@@ -5548,7 +5548,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 5 August 2025"
+    "sectioneffectivedate": "Tuesday, 26 August 2025"
   },
   {
     "code": "DIR1I",
@@ -5561,7 +5561,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 5 August 2025"
+    "sectioneffectivedate": "Tuesday, 26 August 2025"
   },
   {
     "code": "AFFR",
@@ -5574,7 +5574,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 5 August 2025"
+    "sectioneffectivedate": "Tuesday, 26 August 2025"
   },
   {
     "code": "DIR2I",
@@ -5587,7 +5587,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 5 August 2025"
+    "sectioneffectivedate": "Tuesday, 26 August 2025"
   },
   {
     "code": "CIR1I",
@@ -5595,12 +5595,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.40",
+    "ratevalue": "0.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 5 August 2025"
+    "sectioneffectivedate": "Tuesday, 26 August 2025"
   },
   {
     "code": "CIR2I",
@@ -5608,12 +5608,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.40",
+    "ratevalue": "0.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$5,000 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 5 August 2025"
+    "sectioneffectivedate": "Tuesday, 26 August 2025"
   },
   {
     "code": "CIR3I",
@@ -5621,12 +5621,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.40",
+    "ratevalue": "0.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 5 August 2025"
+    "sectioneffectivedate": "Tuesday, 26 August 2025"
   },
   {
     "code": "CIR4I",
@@ -5634,12 +5634,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "0.40",
+    "ratevalue": "0.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 5 August 2025"
+    "sectioneffectivedate": "Tuesday, 26 August 2025"
   },
   {
     "code": "OD1",
