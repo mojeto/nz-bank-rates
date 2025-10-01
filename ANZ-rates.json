@@ -1409,12 +1409,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDSNZS9I",
@@ -1422,12 +1422,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.70",
+    "ratevalue": "3.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "NZIRR",
@@ -1440,7 +1440,7 @@
     "ratenote": "",
     "tiername1": "Base Rate",
     "tiername2": "",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB1M",
@@ -1448,12 +1448,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.05",
+    "ratevalue": "1.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB2M",
@@ -1461,12 +1461,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.15",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB3M",
@@ -1474,12 +1474,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.25",
+    "ratevalue": "3.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB4M",
@@ -1487,12 +1487,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.35",
+    "ratevalue": "3.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB5M",
@@ -1500,12 +1500,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.65",
+    "ratevalue": "3.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB6M",
@@ -1513,12 +1513,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB7M",
@@ -1526,12 +1526,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB8MS",
@@ -1539,12 +1539,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB9M",
@@ -1552,12 +1552,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.70",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB12M",
@@ -1565,12 +1565,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.70",
+    "ratevalue": "3.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB18M",
@@ -1578,12 +1578,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.70",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB2Y",
@@ -1591,12 +1591,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB3Y",
@@ -1604,12 +1604,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.00",
+    "ratevalue": "3.75",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB4Y",
@@ -1617,12 +1617,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.10",
+    "ratevalue": "3.85",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZIB5Y",
@@ -1630,12 +1630,12 @@
     "isfordisplay": "0",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.15",
+    "ratevalue": "4.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ1M2B",
@@ -1643,12 +1643,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.05",
+    "ratevalue": "1.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ2M2B",
@@ -1656,12 +1656,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.15",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ3M2B",
@@ -1669,12 +1669,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.25",
+    "ratevalue": "3.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ4M2B",
@@ -1682,12 +1682,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.35",
+    "ratevalue": "3.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ5M2B",
@@ -1695,12 +1695,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.65",
+    "ratevalue": "3.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ6M2B",
@@ -1708,12 +1708,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ7M2B",
@@ -1721,12 +1721,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ8M2B",
@@ -1734,12 +1734,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.75",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ9M2B",
@@ -1747,12 +1747,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.70",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ12M2B",
@@ -1760,12 +1760,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.70",
+    "ratevalue": "3.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ18M2B",
@@ -1773,12 +1773,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.70",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ24M2B",
@@ -1786,12 +1786,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ3Y2B",
@@ -1799,12 +1799,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.00",
+    "ratevalue": "3.75",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ4Y2B",
@@ -1812,12 +1812,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.10",
+    "ratevalue": "3.85",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTDNZ5Y2B",
@@ -1825,12 +1825,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.15",
+    "ratevalue": "4.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "$10,000 +",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO1M",
@@ -1838,12 +1838,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.05",
+    "ratevalue": "1.95",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E1M",
@@ -1851,12 +1851,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.11",
+    "ratevalue": "2.01",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E1M",
@@ -1864,12 +1864,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.20",
+    "ratevalue": "2.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E1M",
@@ -1877,12 +1877,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.42",
+    "ratevalue": "2.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "30 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO2M",
@@ -1890,15 +1890,28 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.25",
+    "ratevalue": "2.15",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E2M",
+    "isactive": "1",
+    "isfordisplay": "1",
+    "ratename": "",
+    "ratetype": "Interest Rate",
+    "ratevalue": "2.21",
+    "ratesuffix": "% p.a.",
+    "ratenote": "",
+    "tiername1": "60 days",
+    "tiername2": "30% Effective Rate",
+    "sectioneffectivedate": "Thursday, 2 October 2025"
+  },
+  {
+    "code": "PTNZ33E2M",
     "isactive": "1",
     "isfordisplay": "1",
     "ratename": "",
@@ -1907,21 +1920,8 @@
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "60 days",
-    "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
-  },
-  {
-    "code": "PTNZ33E2M",
-    "isactive": "1",
-    "isfordisplay": "1",
-    "ratename": "",
-    "ratetype": "Interest Rate",
-    "ratevalue": "2.42",
-    "ratesuffix": "% p.a.",
-    "ratenote": "",
-    "tiername1": "60 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E2M",
@@ -1929,12 +1929,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "2.66",
+    "ratevalue": "2.54",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "60 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO3M",
@@ -1942,12 +1942,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.25",
+    "ratevalue": "3.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E3M",
@@ -1955,12 +1955,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.34",
+    "ratevalue": "3.19",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E3M",
@@ -1968,12 +1968,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.49",
+    "ratevalue": "3.33",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E3M",
@@ -1981,12 +1981,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.84",
+    "ratevalue": "3.66",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "90 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO4M",
@@ -1994,12 +1994,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.35",
+    "ratevalue": "3.20",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E4M",
@@ -2007,12 +2007,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.45",
+    "ratevalue": "3.29",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E4M",
@@ -2020,12 +2020,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.60",
+    "ratevalue": "3.44",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E4M",
@@ -2033,12 +2033,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.95",
+    "ratevalue": "3.78",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "120 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO5M",
@@ -2046,12 +2046,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.65",
+    "ratevalue": "3.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E5M",
@@ -2059,12 +2059,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E5M",
@@ -2072,12 +2072,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.92",
+    "ratevalue": "3.71",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E5M",
@@ -2085,12 +2085,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.31",
+    "ratevalue": "4.07",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "150 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO6M",
@@ -2098,12 +2098,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E6M",
@@ -2111,12 +2111,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.86",
+    "ratevalue": "3.65",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E6M",
@@ -2124,12 +2124,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.03",
+    "ratevalue": "3.81",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E6M",
@@ -2137,12 +2137,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.43",
+    "ratevalue": "4.19",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "180 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO7M",
@@ -2150,12 +2150,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E7M",
@@ -2163,12 +2163,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.86",
+    "ratevalue": "3.65",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E7M",
@@ -2176,12 +2176,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.03",
+    "ratevalue": "3.81",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E7M",
@@ -2189,12 +2189,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.43",
+    "ratevalue": "4.19",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "210 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO8M",
@@ -2202,12 +2202,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E8M",
@@ -2215,12 +2215,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.86",
+    "ratevalue": "3.60",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E8M",
@@ -2228,12 +2228,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.03",
+    "ratevalue": "3.76",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E8M",
@@ -2241,12 +2241,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.43",
+    "ratevalue": "4.13",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "240 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO9M",
@@ -2254,12 +2254,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.70",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E9M",
@@ -2267,12 +2267,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.81",
+    "ratevalue": "3.60",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E9M",
@@ -2280,12 +2280,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.98",
+    "ratevalue": "3.76",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E9M",
@@ -2293,12 +2293,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.37",
+    "ratevalue": "4.13",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "270 days",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO12M",
@@ -2306,12 +2306,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.70",
+    "ratevalue": "3.45",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E1Y",
@@ -2319,12 +2319,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.81",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E1Y",
@@ -2332,12 +2332,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.98",
+    "ratevalue": "3.71",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E1Y",
@@ -2345,12 +2345,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.37",
+    "ratevalue": "4.07",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "1 year",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO18M",
@@ -2358,12 +2358,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.70",
+    "ratevalue": "3.50",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E18M",
@@ -2371,12 +2371,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.81",
+    "ratevalue": "3.60",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E18M",
@@ -2384,12 +2384,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.98",
+    "ratevalue": "3.76",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E18M",
@@ -2397,12 +2397,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.37",
+    "ratevalue": "4.13",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "18 months",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETI24M",
@@ -2410,12 +2410,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E2Y",
@@ -2423,12 +2423,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.86",
+    "ratevalue": "3.65",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E2Y",
@@ -2436,12 +2436,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.03",
+    "ratevalue": "3.81",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E2Y",
@@ -2449,12 +2449,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.43",
+    "ratevalue": "4.19",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "2 years",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO24M",
@@ -2462,12 +2462,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "3.75",
+    "ratevalue": "3.55",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "24 months",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO3Y",
@@ -2475,12 +2475,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.00",
+    "ratevalue": "3.75",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E3Y",
@@ -2488,12 +2488,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.11",
+    "ratevalue": "3.86",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E3Y",
@@ -2501,12 +2501,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.30",
+    "ratevalue": "4.03",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E3Y",
@@ -2514,12 +2514,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.72",
+    "ratevalue": "4.43",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "3 years",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO4Y",
@@ -2527,12 +2527,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.10",
+    "ratevalue": "3.85",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E4Y",
@@ -2540,12 +2540,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.22",
+    "ratevalue": "3.96",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E4Y",
@@ -2553,12 +2553,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.41",
+    "ratevalue": "4.14",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E4Y",
@@ -2566,12 +2566,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.84",
+    "ratevalue": "4.54",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "4 years",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PPIETO5Y",
@@ -2579,12 +2579,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.15",
+    "ratevalue": "4.00",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "$10,000+",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ30E5Y",
@@ -2592,12 +2592,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.27",
+    "ratevalue": "4.11",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "30% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ33E5Y",
@@ -2605,12 +2605,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.46",
+    "ratevalue": "4.30",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "33% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PTNZ39E5Y",
@@ -2618,12 +2618,12 @@
     "isfordisplay": "1",
     "ratename": "",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.90",
+    "ratevalue": "4.72",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "5 years",
     "tiername2": "39% Effective Rate",
-    "sectioneffectivedate": "Tuesday, 12 August 2025"
+    "sectioneffectivedate": "Thursday, 2 October 2025"
   },
   {
     "code": "PDSSNZI",
