@@ -5437,9 +5437,9 @@
     "code": "BBIRI",
     "isactive": "1",
     "isfordisplay": "1",
-    "ratename": "Effective from 7 October 2025",
+    "ratename": "Effective from 10 October 2025",
     "ratetype": "Interest Rate",
-    "ratevalue": "5.23",
+    "ratevalue": "5.22",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
@@ -5556,12 +5556,12 @@
     "isfordisplay": "1",
     "ratename": "Business Term Loan base rate - floating",
     "ratetype": "Interest Rate",
-    "ratevalue": "4.55",
+    "ratevalue": "4.15",
     "ratesuffix": "% p.a.",
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 1 October 2025"
+    "sectioneffectivedate": "Friday, 10 October 2025"
   },
   {
     "code": "DIR1I",
@@ -5574,7 +5574,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 1 October 2025"
+    "sectioneffectivedate": "Friday, 10 October 2025"
   },
   {
     "code": "AFFR",
@@ -5587,7 +5587,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 1 October 2025"
+    "sectioneffectivedate": "Friday, 10 October 2025"
   },
   {
     "code": "DIR2I",
@@ -5600,7 +5600,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 1 October 2025"
+    "sectioneffectivedate": "Friday, 10 October 2025"
   },
   {
     "code": "CIR1I",
@@ -5613,7 +5613,7 @@
     "ratenote": "",
     "tiername1": "$0 - $4,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 1 October 2025"
+    "sectioneffectivedate": "Friday, 10 October 2025"
   },
   {
     "code": "CIR2I",
@@ -5626,7 +5626,7 @@
     "ratenote": "",
     "tiername1": "$5,000 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 1 October 2025"
+    "sectioneffectivedate": "Friday, 10 October 2025"
   },
   {
     "code": "CIR3I",
@@ -5639,7 +5639,7 @@
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 1 October 2025"
+    "sectioneffectivedate": "Friday, 10 October 2025"
   },
   {
     "code": "CIR4I",
@@ -5652,7 +5652,7 @@
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 1 October 2025"
+    "sectioneffectivedate": "Friday, 10 October 2025"
   },
   {
     "code": "OD1",
