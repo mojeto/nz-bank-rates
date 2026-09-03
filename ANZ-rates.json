@@ -5574,7 +5574,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 12 August 2026"
+    "sectioneffectivedate": "Thursday, 3 September 2026"
   },
   {
     "code": "DIR1I",
@@ -5587,7 +5587,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 12 August 2026"
+    "sectioneffectivedate": "Thursday, 3 September 2026"
   },
   {
     "code": "AFFR",
@@ -5600,7 +5600,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 12 August 2026"
+    "sectioneffectivedate": "Thursday, 3 September 2026"
   },
   {
     "code": "DIR2I",
@@ -5613,20 +5613,7 @@
     "ratenote": "",
     "tiername1": "",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 12 August 2026"
-  },
-  {
-    "code": "CIR1I",
-    "isactive": "1",
-    "isfordisplay": "1",
-    "ratename": "",
-    "ratetype": "Interest Rate",
-    "ratevalue": "0.10",
-    "ratesuffix": "% p.a.",
-    "ratenote": "",
-    "tiername1": "$0 - $4,999",
-    "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 12 August 2026"
+    "sectioneffectivedate": "Thursday, 3 September 2026"
   },
   {
     "code": "CIR2I",
@@ -5637,9 +5624,9 @@
     "ratevalue": "0.10",
     "ratesuffix": "% p.a.",
     "ratenote": "",
-    "tiername1": "$5,000 - $19,999",
+    "tiername1": "$0 - $19,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 12 August 2026"
+    "sectioneffectivedate": "Thursday, 3 September 2026"
   },
   {
     "code": "CIR3I",
@@ -5652,7 +5639,7 @@
     "ratenote": "",
     "tiername1": "$20,000 - $199,999",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 12 August 2026"
+    "sectioneffectivedate": "Thursday, 3 September 2026"
   },
   {
     "code": "CIR4I",
@@ -5665,7 +5652,7 @@
     "ratenote": "",
     "tiername1": "$200,000+",
     "tiername2": "",
-    "sectioneffectivedate": "Wednesday, 12 August 2026"
+    "sectioneffectivedate": "Thursday, 3 September 2026"
   },
   {
     "code": "OD1",
